@@ -1,0 +1,56 @@
+*{
+    font-size: 1.3rem;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html{
+    margin: 2rem 3rem;
+    background-color: beige;
+}
+
+body{
+    background-color: white;
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 1rem;
+    width: max-content;
+}
+
+.subbtn{
+    border-radius: 23rem;
+    text-align: right;
+    margin: 0rem 0rem 0rem 40%;
+}
+
+input{
+    border: none;
+    border: 3px solid rgb(177, 177, 177);
+    display: flex;
+    padding: 0.5rem 0.4rem;
+}
+
+label{
+    font-weight: 600;
+    display: block;
+    margin: 0rem 0rem;
+}
+
+.form{
+    border-radius: 1rem;
+}
+#shift{
+    display: inline;
+    border-radius: 2rem;
+    float: right;
+    margin-right: 20%;
+    border-radius: 0.5rem;
+    padding: 0.2rem 1rem;
+
+    /* margin: 0rem 0rem 0rem 40%; */
+}
+
+#shiftlabel{
+    display: inline-flex;
+}
